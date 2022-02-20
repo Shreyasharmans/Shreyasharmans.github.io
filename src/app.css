@@ -1,0 +1,12 @@
+
+.app{
+     /* background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.5)),url("./img/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+}
+@media screen and (max-width: 480px) {
+.col{
+    background-color: aqua;
+}
+}
