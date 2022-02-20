@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d6331e3.chunk.css",
+    "main.js": "/static/js/main.851b8e91.chunk.js",
+    "main.js.map": "/static/js/main.851b8e91.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9412c5a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9412c5a0.js.map",
+    "static/js/2.d750a05a.chunk.js": "/static/js/2.d750a05a.chunk.js",
+    "static/js/2.d750a05a.chunk.js.map": "/static/js/2.d750a05a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2d6331e3.chunk.css.map": "/static/css/main.2d6331e3.chunk.css.map",
+    "static/js/2.d750a05a.chunk.js.LICENSE.txt": "/static/js/2.d750a05a.chunk.js.LICENSE.txt",
+    "static/media/Shreya_Resume.bfbad875.pdf": "/static/media/Shreya_Resume.bfbad875.pdf",
+    "static/media/me1.acf2ae1f.png": "/static/media/me1.acf2ae1f.png",
+    "static/media/pdf1.1da70bf9.png": "/static/media/pdf1.1da70bf9.png",
+    "static/media/shreya.fcd939e9.jpeg": "/static/media/shreya.fcd939e9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9412c5a0.js",
+    "static/js/2.d750a05a.chunk.js",
+    "static/css/main.2d6331e3.chunk.css",
+    "static/js/main.851b8e91.chunk.js"
+  ]
+}
