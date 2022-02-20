@@ -6,7 +6,7 @@ export const products = [
     id: 1,
     img: VideoResume,
     link: "https://github.com/Shreyasharmans/Todo_List_Using_React",
-    link1: "https://github.com/Shreyasharmans/Shreyasharmans.github.io",
+    link1: "https://shreyasharmans.github.io/",
     title: "React Js Projects",
     project: "Todo List",
     project1: "This Portfolio",
